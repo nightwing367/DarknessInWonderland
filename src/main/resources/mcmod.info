@@ -1,0 +1,19 @@
+[
+{
+  "modid": "DarknessInWonderland",
+  "name": "Darkness In Wonderland",
+  "description": "Aucune idee de ce que ca va donner",
+  "version": "0.0.1",
+  "credits": "Created by Nightwing367",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Nightwing367" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+
+]
+}
+]
