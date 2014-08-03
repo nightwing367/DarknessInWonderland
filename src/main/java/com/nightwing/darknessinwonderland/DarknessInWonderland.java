@@ -1,16 +1,22 @@
 package com.nightwing.darknessinwonderland;
 
+import com.nightwing.darknessinwonderland.proxy.IProxy;
+import com.nightwing.darknessinwonderland.reference.Reference;
 import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
 
-@Mod(modid="DarknessInWonderland", name="Darkness In Wonderland", version="1.7.10-0.0.1")
+@Mod(modid=Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION)
 
 public class DarknessInWonderland {
-    @Mod.Instance("DarknessInWonderland")
+    @Mod.Instance(Reference.MOD_ID)
     public static DarknessInWonderland instance;
+
+    @SidedProxy(clientSide=Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
+    public static IProxy proxy;
 
     public void preInit(FMLPreInitializationEvent event)
     {

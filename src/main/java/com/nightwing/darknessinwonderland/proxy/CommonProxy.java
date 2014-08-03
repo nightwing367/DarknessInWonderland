@@ -1,4 +1,5 @@
 package com.nightwing.darknessinwonderland.proxy;
 
-public class CommonProxy implements IProxy {
+public abstract class CommonProxy implements IProxy {
+
 }
