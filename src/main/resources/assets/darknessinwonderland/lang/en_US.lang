@@ -1,0 +1,14 @@
+
+#Keys
+keys.darknessinwonderland.category=Darkness In Wonderland
+keys.darknessinwonderland.charge=Charge
+keys.darknessinwonderland.release=Release
+
+#Item Localizations
+item.darknessinwonderland:tear.name=Tear
+
+#Block Localizations
+tile.darknessinwonderland:darkness.name=Darkness
+
+#Creative Tabs Localization
+itemGroup.darknessinwonderland=Darkness In Wonderland

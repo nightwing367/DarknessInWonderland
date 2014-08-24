@@ -1,22 +1,35 @@
-[15:31:11] [main/INFO]: Setting user: ForgeDevName
-[15:31:13] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:31:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Darkness In Wonderland
-[15:31:21] [Sound Library Loader/INFO]: Sound engine started
-[15:31:23] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:31:23] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:31:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Darkness In Wonderland
-[15:31:23] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:31:23] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:31:24] [Sound Library Loader/INFO]: Sound engine started
-[15:32:59] [Client thread/INFO]: Stopping!
-evName
-[15:32:56] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:33:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Darkness In Wonderland
-[15:33:04] [Sound Library Loader/INFO]: Sound engine started
-[15:33:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:33:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:33:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Darkness In Wonderland
-[15:33:07] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:33:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:33:08] [Sound Library Loader/INFO]: Sound engine started
-[15:33:25] [Client thread/INFO]: Stopping!
+[15:32:41] [main/INFO]: Setting user: ForgeDevName
+[15:32:43] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:32:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Darkness In Wonderland
+[15:32:53] [Sound Library Loader/INFO]: Sound engine started
+[15:32:55] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:32:55] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:32:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Darkness In Wonderland
+[15:32:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:32:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:32:57] [Sound Library Loader/INFO]: Sound engine started
+[15:33:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:33:02] [Server thread/INFO]: Generating keypair
+[15:33:02] [Server thread/INFO]: Preparing start region for level 0
+[15:33:03] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:33:04] [Server thread/INFO]: ForgeDevName[local:E:6835babd] logged in with entity id 169 at (375.57957126616543, 4.0, 479.2259070631218)
+[15:33:04] [Server thread/INFO]: ForgeDevName joined the game
+[15:33:04] [Server thread/INFO]: Saving and pausing game...
+[15:33:04] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:33:04] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:33:04] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:33:06] [Server thread/INFO]: Saving and pausing game...
+[15:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:33:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:34:52] [Server thread/INFO]: Saving and pausing game...
+[15:34:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:34:52] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:34:52] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:34:53] [Server thread/INFO]: Stopping server
+[15:34:53] [Server thread/INFO]: Saving players
+[15:34:53] [Server thread/INFO]: Saving worlds
+[15:34:53] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:34:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:34:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:34:55] [Client thread/INFO]: Stopping!
